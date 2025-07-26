@@ -1,0 +1,33 @@
+h3{
+    color: black;
+   
+}
+body {
+ font-family: Arial, sans-serif;
+    background-color: whitesmoke;
+    margin: 0%;
+    padding: 0%;
+    line-height: 1.6;
+}
+header{
+    background-color: dimgray;
+}
+main{
+    padding: 20px;
+}
+section{
+    background-color:whitesmoke;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+    margin: 10px auto;
+}
+.email{
+    
+}
